@@ -17,7 +17,7 @@ Big thanks to [Rob Wormald](https://twitter.com/robwormald) and [David Herges](h
 ## Get the right version
 
 - Angular 6-7/ CLI 6-7: ngx-build-plus@^7
-- Angular 8/ CLI 8: ngx-build-plus^8.0.0
+- Angular 8/ CLI 8: ngx-build-plus@^8.0.0
 
 ## Updating to Version 8
 
